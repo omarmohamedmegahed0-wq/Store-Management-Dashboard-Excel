@@ -23,4 +23,5 @@ The goal of this project is to analyze store performance, identify top-selling p
 - `Store Management Dashboard.xlsx`: The main project file containing the raw data, pivot tables, and dashboard.
 
 #LinkedIn
+-Project on Linkedin :https://lnkd.in/p/eZahNdra
 -https://www.linkedin.com/in/omar-megahed-b54547326/
